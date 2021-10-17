@@ -1,6 +1,8 @@
 {
   "name": "linkin_park",
-  "version": "1.0.0",
-  "main": "index.html",
-  "license": "MIT"
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "index.html"
+  }
 }
